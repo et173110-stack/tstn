@@ -43,7 +43,7 @@ const App: React.FC = () => {
       // 研討會
       seminar: 'https://www.csatc.com/tstn/b4.jpg',
       // 活動花絮
-      events: 'https://www.csatc.com/tstn/b5.jpg',
+      events: 'https://www.csatc.com/tstn/b5-1.jpg',
       // 會員專區 (join, login)
       member: 'https://www.csatc.com/tstn/b6.jpg'
     };
