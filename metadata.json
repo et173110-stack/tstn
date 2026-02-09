@@ -1,0 +1,8 @@
+{
+  "name": "桃園市智慧科技發展協會 (TSTN)",
+  "description": "一個專業且美觀的協會入口網站，具備動態內容切換與即時編輯模式，支援智慧城市發展與科技產業媒合。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
