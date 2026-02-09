@@ -442,7 +442,7 @@ export const PAGE_CONTENT: Record<string, { title: string; content: (navigateTo:
         <section>
           <div className="flex justify-between items-end mb-8 border-b pb-4">
             <h2 className="text-3xl font-bold text-blue-900 font-serif-tc">活動照片回顧</h2>
-            <p className="text-slate-400 text-sm mb-1 hidden md:block tracking-widest uppercase">Expanding Perspectives</p>
+           
           </div>
           
           <EventPhotoGallery />
